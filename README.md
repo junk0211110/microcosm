@@ -1,12 +1,12 @@
-# [microcosm](http://microcosm.site)
+# <a href="http://microcosm.site" target="_blank">microcosm</a>
 A starter project to help you create, build and deploy your own simple, static and responsive microsite.
 
-Uses the responsive CSS of skeleton. Visit [getskeleton.com](http://getskeleton.com) for details.
+Uses the responsive CSS of skeleton. Visit <a href="http://getskeleton.com" target="_blank">getskeleton.com</a>
 
 ## Getting started
 
 There are 2 ways to get started:
-- You can visit the website for the ZIP and all the instructions [microcosm](http://microcosm.site)
+- You can visit the website for the ZIP and all the instructions <a href="http://microcosm.site" target="_blank">microcosm</a>
 - You can also clone this repo
 
 ### What's in the repo?
@@ -82,6 +82,5 @@ $ git push
 
 ## FYI
 
-- The typeface [Raleway](http://www.google.com/fonts/specimen/Raleway) was created by [Matt McInerney](http://matt.cc/) and [Pablo Impallari](http://www.impallari.com/).
 - Icon from <a href="https://thenounproject.com/GregSuj/collection/beyond-the-infinite/" target="_blank">Beyond the Infinite</a> collection created by <a href="http://gregory.sujkowski.fr/" target="_blank">Gregory
 Sujkowski</a>
