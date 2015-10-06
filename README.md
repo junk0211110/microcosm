@@ -39,21 +39,21 @@ You should now have a folder with the following structure:
 ```
 folder/
 └── username.github.io/
-  ├── assets/
-  │   ├── img/
-  │   │   ├── GitHub-Mark-Light.png
-  │   │   ├── blurred_lines-min.jpeg
-  │   │   └── favicon.png
-  │   ├── index.html
-  │   ├── js/
-  │   │   └── functions.js
-  │   └── styles/
-  │       ├── microcosm.scss
-  │       ├── normalize.css
-  │       └── skeleton.css
-  └── tasks/
-  ├── gulpfile.js
-  ├── package.json
+    ├── assets/
+    │   ├── img/
+    │   │   ├── GitHub-Mark-Light.png
+    │   │   ├── blurred_lines-min.jpeg
+    │   │   └── favicon.png
+    │   ├── index.html
+    │   ├── js/
+    │   │   └── functions.js
+    │   └── styles/
+    │       ├── microcosm.scss
+    │       ├── normalize.css
+    │       └── skeleton.css
+    └── tasks/
+    ├── gulpfile.js
+    ├── package.json
 ```
 
 Install and Serve!
