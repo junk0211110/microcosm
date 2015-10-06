@@ -1,12 +1,12 @@
 # <a href="http://microcosm.site" target="_blank">microcosm</a>
 A starter project to help you create, build and deploy your own simple, static and responsive microsite.
 
-Uses the responsive CSS of skeleton. Visit <a href="http://getskeleton.com" target="_blank">getskeleton.com</a>
+Uses the responsive CSS of skeleton. Visit <a href="http://getskeleton.com" target="_blank">getskeleton.com</a> for the details.
 
 ## Getting started
 
 There are 2 ways to get started:
-- You can visit the website for the ZIP and all the instructions <a href="http://microcosm.site" target="_blank">microcosm</a>
+- You can visit <a href="http://microcosm.site" target="_blank">microcosm</a> for the .zip and all the instructions
 - You can also clone this repo
 
 ### What's in the repo?
@@ -23,7 +23,7 @@ href="https://github.com/join" target="_blank">github</a>, set up <a
 href="https://help.github.com/articles/set-up-git/"
 target="_blank">git</a> and create your <a
 href="https://pages.github.com/" target="_blank">site
-repository</a>
+repository</a>.
 
 ### Instructions
 
@@ -78,7 +78,7 @@ $ git push
 
 ## License
 
-[open-source MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md).
+[open-source MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md)
 
 ## FYI
 
