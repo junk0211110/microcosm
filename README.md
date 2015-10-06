@@ -1,20 +1,21 @@
 # <a href="http://microcosm.site" target="_blank">microcosm</a>
 A starter project to help you create, build and deploy your own simple, static and responsive microsite.
 
-Uses the responsive CSS of skeleton. Visit <a href="http://getskeleton.com" target="_blank">getskeleton.com</a> for the details.
+Uses the responsive CSS of skeleton. Visit <a href="http://getskeleton.com" target="_blank">getskeleton.com</a> for features and implementation details.
 
 ## Getting started
 
 There are 2 ways to get started:
-- You can visit <a href="http://microcosm.site" target="_blank">microcosm</a> for the .zip and all the instructions
-- You can also clone this repo
+
+- Visit <a href="http://microcosm.site" target="_blank">microcosm</a> for the .zip and all the instructions
+- Clone the repo
 
 ### What's in the repo?
 
-Skeleton's css, a starter index.html and most importantly, all of the tools required for a sane and painless workflow.
+A starter site and most importantly, all of the tools required for a sane and painless workflow.
 
 - Gulp manages your server, creates your build and watches for any changes
-- Browsersync let's you interact with your site simultaneously, on multiple browsers
+- Browsersync lets you interact with your site on multiple browsers, simultaneously
 
 ### Prerequisites
 
@@ -27,7 +28,7 @@ repository</a>.
 
 ### Instructions
 
-If you plan on deploying your site to github, clone this repository into your username.github.io folder.
+If you plan on deploying your site to github, clone this repository into your **username.github.io** folder.
 
 ```
 $ git clone git@github.com:yethon/microcosm.git
@@ -74,7 +75,7 @@ $ git commit -m 'My Microsite'
 $ git push
 ```
 
-*If you'd like to deploy your site elsewhere, it's packaged in the dist/ folder. It's always minfied and up to date! Just copy & paste whenever you're ready.*
+*If you'd like to deploy your site elsewhere, it's packaged in the dist/ folder. It's always uglified and up to date! Just copy & paste whenever you're ready.*
 
 ## Need some inspiration?
 
@@ -89,5 +90,5 @@ $ git push
 
 ## FYI
 
-- The microcosm icon is from <a href="https://thenounproject.com/GregSuj/collection/beyond-the-infinite/" target="_blank">Beyond the Infinite</a> collection created by <a href="http://gregory.sujkowski.fr/" target="_blank">Gregory
+- The microcosm icon is from the <a href="https://thenounproject.com/GregSuj/collection/beyond-the-infinite/" target="_blank">Beyond the Infinite</a> collection created by <a href="http://gregory.sujkowski.fr/" target="_blank">Gregory
 Sujkowski</a>
