@@ -76,11 +76,18 @@ $ git push
 
 *If you'd like to deploy your site elsewhere, it's packaged in the dist/ folder. It's always minfied and up to date! Just copy & paste whenever you're ready.*
 
+## Need some inspiration?
+
+- High resolution photos: <a href="https://unsplash.com" target="_blank">unsplash</a>
+- Icons: <a href="https://thenounproject.com" target="_blank">the noun
+  project</a>
+- Color scheme generator: <a href="https://coolors.co" target="_blank">coolers</a>
+
 ## License
 
 [open-source MIT license](https://github.com/dhg/Skeleton/blob/master/LICENSE.md)
 
 ## FYI
 
-- Icon from <a href="https://thenounproject.com/GregSuj/collection/beyond-the-infinite/" target="_blank">Beyond the Infinite</a> collection created by <a href="http://gregory.sujkowski.fr/" target="_blank">Gregory
+- The microcosm icon is from <a href="https://thenounproject.com/GregSuj/collection/beyond-the-infinite/" target="_blank">Beyond the Infinite</a> collection created by <a href="http://gregory.sujkowski.fr/" target="_blank">Gregory
 Sujkowski</a>
